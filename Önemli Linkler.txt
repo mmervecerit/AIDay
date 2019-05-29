@@ -1,0 +1,16 @@
+Cognitive Services Directory
+
+https://azure.microsoft.com/en-us/services/cognitive-services/directory/
+
+Intelligent Kiosk App
+
+https://github.com/microsoft/Cognitive-Samples-IntelligentKiosk
+
+AI School
+
+https://aischool.microsoft.com/en-us
+
+Microsoft Professional Academy
+
+https://academy.microsoft.com/en-us/professional-program/
+
